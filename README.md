@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey!, Iam Talha 👋 
 
-Iam a Software Developer from Pakistan focused on writing Network Automation applications & System Integration software.
+Software Developer from Pakistan focused on writing Network Automation applications & System Integration software.
 
 ## Tools I Use
 
