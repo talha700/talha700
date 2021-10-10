@@ -42,5 +42,5 @@ I have a strong computer networking background and a hands-on experience in Cisc
 You can also find me on [Linkedin](https://www.linkedin.com/in/talha-javaid-968182123/) & [Youtube](https://www.youtube.com/channel/UCaUXNbVcXY_35SK9xR_wV4A)!
 
 
-You can usualy found me playing Apex Legends when I'm not working :space_invader:.
+Usualy found me playing Apex Legends when I'm not working :space_invader:.
 
