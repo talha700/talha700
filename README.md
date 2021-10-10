@@ -21,5 +21,5 @@ Iam a Software Developer from Pakistan focused on writing Network Automation app
 
 ## Tools I Use
 
-![Python](python.png)
+![Python](python.png =20x30)
 ![Django](djangoproject-icon.svg)
