@@ -22,4 +22,4 @@ Iam a Software Developer from Pakistan focused on writing Network Automation app
 ## Tools I Use
 
 <img src="python.png" width="200" height="80">
-![Django](django.svg  width="200" height="80")
+<img src="django.png" width="200" height="80">
