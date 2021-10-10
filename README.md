@@ -35,6 +35,7 @@ I have a strong computer networking background and a hands-on experience in Cisc
   - MPLS
   - NAT
   - ACL
+  - FHRPs
   - COPP
 
 
