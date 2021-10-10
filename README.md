@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ### Hey!, Iam Talha 👋 
 
 Iam a Software Developer from Pakistan ![PK](flagpk.svg)
-<img src="./flagpk.svg">
