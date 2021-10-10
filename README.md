@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](img.png)
+![alt text](logos/img.png)
 
 ### Hey!, Iam Talha 👋 
 
