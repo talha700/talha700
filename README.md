@@ -26,7 +26,7 @@ My keen interest remains in building robust and scalable Back-End applications u
 
 
 I have a strong computer networking background and a hands-on experience in Cisco, Juniper & Fortigate products
-### Routing & Switching
+## Routing & Switching
   - VLAN | Inter-VLAN Routing
   - STP
   - OSPF | BGP | EIGRP | RIP
