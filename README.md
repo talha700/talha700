@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hey!, Iam Talha 👋 
 
-Iam a Software Developer from Pakistan ![PK](flagpk.svg | widht=20)
+Iam a Software Developer from Pakistan ![PK](flagpk.svg | width=20)
