@@ -21,5 +21,5 @@ Iam a Software Developer from Pakistan focused on writing Network Automation app
 
 ## Tools I Use
 
-<img src="python-logo.png" width="65" height="65">  <img src="django-logo.png" width="60" height="70" >  <img src="docker-logo.png" width="65" height="65" > <img src="redis.png" width="65" height="65" > <img src="celery-logo.png" width="90" height="100" > <img src="vue.png" width="70" height="65" > <img src="js.png" width="65" height="65" >  <img src="nornir.jpg" title="Nornir" width="65" height="65" > 
+<img src="python-logo.png" title="Python" width="65" height="65">  <img src="django-logo.png" title="Django" width="60" height="70" >  <img src="docker-logo.png" width="65" height="65" title="Docker" > <img src="redis.png" title="Redis" width="65" height="65" > <img src="celery-logo.png" title="Celery" width="90" height="100" > <img src="vue.png" title="Vuejs" width="70" height="65" > <img src="js.png" title="JavaScript" width="65" height="65" >  <img src="nornir.jpg" title="Nornir" width="65" height="65" > 
 
