@@ -21,4 +21,4 @@ Iam a Software Developer from Pakistan focused on writing Network Automation app
 
 ## Tools I Use
 
-<img src="python-logo.png" width="65" height="65">  <img src="django-logo.png" width="60" height="70" >  <img src="docker-logo.png" width="65" height="65" > <img src="redis.png" width="65" height="65" > <img src="celery.png" width="80" height="60" > 
+<img src="python-logo.png" width="65" height="65">  <img src="django-logo.png" width="60" height="70" >  <img src="docker-logo.png" width="65" height="65" > <img src="redis.png" width="65" height="65" > <img src="celery.png" width="80" height="80" > 
