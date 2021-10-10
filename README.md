@@ -21,5 +21,5 @@ Iam a Software Developer from Pakistan focused on writing Network Automation app
 
 ## Tools I Use
 
-<img src="python.png" width="25" height="40">
+<img src="python.png" width="40" height="70">
 ![Django](djangoproject-icon.svg)
