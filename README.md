@@ -26,7 +26,7 @@ My keen interest remains in building robust and scalable Back-End applications u
 
 
 ## Routing & Switching
-I have a strong computer networking background and a hands-on experience in Cisco, Juniper & Fortigate products
+I have a strong computer networking background and a hands-on experience with Cisco and Palo Alto products
 #### Known technologies:
   - VLAN | Inter-VLAN Routing
   - STP
