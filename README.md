@@ -22,7 +22,7 @@ My keen interest remains in building robust and scalable Back-End applications u
 
 ## Tools I Use
 
-<img src="logos/python-logo.png" title="Python" width="65" height="65">  <img src="logos/django-logo.png" title="Django" width="60" height="70" >  <img src="logos/docker-logo.png" width="65" height="65" title="Docker" > <img src="logos/redis.png" title="Redis" width="65" height="65" > <img src="logos/celery-logo.png" title="Celery" width="90" height="100" > <img src="logos/vue.png" title="Vuejs" width="70" height="65" > <img src="logos/js.png" title="JavaScript" width="65" height="65" >  <img src="logos/nornir.jpg" title="Nornir" width="65" height="65" > <img src="logos/linux-0.png" title="Linux" width="70" height="70" > <img src="logos/vscode.png" title="VSCode" width="70" height="65" > <img src="logos/netbox_logo.png" title="Netbox" width="140" height="65">
+<img src="logos/python-logo.png" title="Python" width="65" height="65">  <img src="logos/django-logo.png" title="Django" width="60" height="70" >  <img src="logos/docker-logo.png" width="65" height="65" title="Docker" > <img src="logos/redis.png" title="Redis" width="65" height="65" > <img src="logos/celery-logo.png" title="Celery" width="90" height="100" > <img src="logos/vue.png" title="Vuejs" width="70" height="65" > <img src="logos/js.png" title="JavaScript" width="65" height="65" >  <img src="logos/nornir.jpg" title="Nornir" width="65" height="65" > <img src="logos/linux-0.png" title="Linux" width="70" height="70" > <img src="logos/vscode.png" title="VSCode" width="70" height="65" > <img src="logos/netbox_logo.svg" title="Netbox" width="140" height="65">
 
 
 ## Routing & Switching
